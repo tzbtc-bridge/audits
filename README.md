@@ -14,7 +14,7 @@ Android App, audited by Compass Security
 
 Audited by Inference AG
 
-[Inference AG - TF - tzBTCv2 - v1.0.pdf](Inference AG - TF - tzBTCv2 - v1.0.pdf)
+[Inference AG - TF - tzBTCv2 - v1.0.pdf](audits/Inference AG - TF - tzBTCv2 - v1.0.pdf)
 
 Also published on Inference's Github repsitory, here: https://github.com/InferenceAG/ReportPublications
 
